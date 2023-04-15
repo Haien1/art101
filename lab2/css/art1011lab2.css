@@ -1,0 +1,40 @@
+h1 {
+    color:rgb(228, 4, 232);
+    font-size: 1000px
+  }
+  
+  
+  p{
+    font-family: "Georgia";
+    text-indent: 0px;
+    margin-left: 0px;
+   font-size: 28px;
+   color: rgb(13, 94, 29);
+   font-style: italic;
+  }
+  
+  
+  p1{
+    font-family: "Georgia";
+    text-indent: 0px;
+    margin-left: 0px;
+   font-size: 28px;
+   color: rgb(13, 81, 26);
+   font-style: italic;
+  }
+  
+  
+  img{
+    height: 300px;
+    width: 200px;  
+  }
+  
+  #content {
+    background-color: #9e08ef;
+    width: 1500px;
+    min-height: 1800px;
+    padding: 10px;
+    margin: 20px;
+    border: solid 1px #44444444;
+    font-size: 14px;
+  }
